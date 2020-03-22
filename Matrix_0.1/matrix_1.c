@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 #define MAXMATRIXNAME 11
 #define MAXm 20
 #define MAXn 20
